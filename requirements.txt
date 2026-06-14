@@ -1,0 +1,16 @@
+# Python >= 3.9 recommended (tested with Anaconda base + project env)
+# Motiflets is vendored under motiflets-main/ and loaded via sys.path in motif_discovery.py
+
+numpy>=1.23.0,<2.0
+pandas>=2.0.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+numba>=0.56.0
+pwlf>=2.5.0
+seaborn>=0.12.0
+joblib>=1.2.0
+psutil>=5.9.0
+tsdownsample>=0.1.4
+kneed>=0.8.0
+bottleneck>=1.3.6
