@@ -51,6 +51,7 @@ pip install -r requirements.txt
 - `data/`: input datasets
 - `results/`: generated artifacts (created at runtime)
 - `exp/`: downstream experiment scripts (classification, detection, imputation)
+- `Appendix.pdf`: supplementary document (additional details, proofs, and extended experimental results)
 - `requirements.txt`: Python package dependencies
 
 ## Data Preparation
@@ -136,6 +137,10 @@ Download links to be added.
 
 
 Place files according to the layouts in **Data Preparation** after download.
+
+## Appendix
+
+The file [`Appendix.pdf`](Appendix.pdf) provides supplementary material for SubD, including additional technical details, proofs, and extended experimental results referenced in the paper.
 
 ## Tools
 
